@@ -1,6 +1,5 @@
 # GPT API secrit keys
-api_key : 'sk-proj-tokqSnOgQDfrDlTw7Yb7T3BlbkFJ1ucansfbAGKS2hKCKUWC'
-k2 : "sk-proj-93Pw0nxl6PIdDctiiBdmT3BlbkFJ0p8za5Gux5rna2GNmugT"
+api_key : "your key"
 
 # dataset path
 dataset : "dataset/images"

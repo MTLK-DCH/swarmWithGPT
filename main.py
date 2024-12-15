@@ -17,7 +17,6 @@ client = OpenAI()
 
 # set API secrit keys
 api_key = config["api_key"]
-k2 = config["k2"]
 
 # set headers
 headers = {
