@@ -1,0 +1,241 @@
+id,fork,door,door_dir,door_dis,door_open,robot,robot_dir,robot_dis,AR_single,AR_multi,AR_dir,obs,obs_name,obs_dir,obs_dis,can_pass
+image_1.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Bag , Center , 150 , Yes
+image_2.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Bag , Center , 150 , Yes
+image_3.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Bag , Center , 150 , No
+image_4.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Bag , Center , 150 , No
+image_5.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Bag , Center , 150 , No
+image_6.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Bag , Center , 150 , Yes
+image_7.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Bag , Center , 150 , No
+image_8.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Backpack , Center , 150 , No
+image_9.jpg,No , Yes , Center , 500 , No , No , No , No , No , No , No , Yes , Bag , Center , 150 , Yes
+image_10.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Bag , Center , 150 , No
+image_11.jpg,No , Yes , Center , 500 , No , No , No , No , Yes , No , Left , Yes , Bag , Center , 150 , No
+image_12.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 100 , No
+image_13.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Backpack , Center , 100 , No
+image_14.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Bag , Center , 100 , No
+image_15.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Bag , Center , 100 , No
+image_16.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Bag , Center , 100 , No
+image_17.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 150 , No
+image_18.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 100 , No
+image_19.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_20.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Bag , Center , 100 , No
+image_21.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Bag , Center , 50 , No
+image_22.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Backpack , Center , 100 , No
+image_23.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_24.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_25.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_26.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Bag , Center , 50 , No
+image_27.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_28.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Fire extinguisher , Right , 100 , Yes
+image_29.jpg,No , Yes , Center , 200 , No , No , No , No , No , No , No , Yes , Fire extinguisher , Right , 50 , Yes
+image_30.jpg,No , Yes , Center , 200 , No , No , No , No , No , No , No , Yes , Fire extinguisher , Right , 50 , Yes
+image_31.jpg,No , Yes , Center , 200 , No , No , No , No , Yes , No , Left , Yes , Fire extinguisher , Right , 50 , Yes
+image_32.jpg,No , Yes , Center , 200 , No , No , No , No , Yes , No , Left , Yes , Fire extinguisher , Right , 50 , Yes
+image_33.jpg,No , Yes , Center , 200 , No , No , No , No , Yes , No , Left , Yes , Fire extinguisher , Right , 50 , No
+image_34.jpg,No , Yes , Center , 200 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 200 , Yes
+image_35.jpg,No , Yes , Center , 150 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 150 , Yes
+image_36.jpg,No , Yes , Center , 150 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 150 , Yes
+image_37.jpg,No , Yes , Center , 200 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 200 , No
+image_38.jpg,No , Yes , Center , 100 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 100 , Yes
+image_39.jpg,No , Yes , Center , 100 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 100 , Yes
+image_40.jpg,No , Yes , Center , 100 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 100 , Yes
+image_41.jpg,No , Yes , Center , 100 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 100 , No
+image_42.jpg,No , Yes , Center , 100 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 100 , No
+image_43.jpg,No , Yes , Center , 100 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 100 , No
+image_44.jpg,No , Yes , Center , 100 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 100 , No
+image_45.jpg,No , Yes , Center , 100 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 100 , No
+image_46.jpg,No , Yes , Center , 0 , No , Yes , Center , 0 , Yes , No , Left , Yes , Door , Center , 0 , No
+image_47.jpg,No , Yes , Center , 100 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 100 , No
+image_48.jpg,No , Yes , Center , 0 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 0 , No
+image_49.jpg,No , Yes , Center , 0 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 0 , No
+image_50.jpg,No , Yes , Center , 0 , No , No , No , No , Yes , No , Left , Yes , Door , Center , 0 , Yes
+image_51.jpg,No , Yes , Center , 0 , No , No , No , No , No , No , No , Yes , Door , Center , 0 , No
+image_52.jpg,No , Yes , Center , 0 , No , Yes , Right , 100 , No , No , No , Yes , Door , Center , 0 , No
+image_53.jpg,No , Yes , Center , 0 , No , No , No , No , No , No , No , Yes , Door , Center , 0 , No
+image_54.jpg,No , Yes , Center , 800 , No , No , No , No , No , No , No , Yes , Box , Left , 100 , Yes
+image_55.jpg,No , Yes , Center , 500 , No , No , No , No , No , No , No , Yes , Box , Left , 100 , Yes
+image_56.jpg,No , Yes , Center , 500 , No , No , No , No , No , No , No , Yes , Box , Left , 100 , Yes
+image_57.jpg,No , Yes , Center , 800 , No , No , No , No , No , No , No , Yes , Blocks , Left , 100 , Yes
+image_58.jpg,No , Yes , Center , 500 , No , No , No , No , No , No , No , Yes , Box , Left , 200 , Yes
+image_59.jpg,No , Yes , Center , 500 , No , No , No , No , Yes , No , Right , Yes , Box , Left , 100 , Yes
+image_60.jpg,No , Yes , Center , 800 , No , No , No , No , No , No , No , Yes , Box , Left , 150 , Yes
+image_61.jpg,No , Yes , Center , 500 , No , No , No , No , No , No , No , Yes , Box , Left , 50 , Yes
+image_62.jpg,No , Yes , Center , 800 , No , No , No , No , No , No , No , Yes , Box , Left , 100 , Yes
+image_63.jpg,No , Yes , Center , 800 , No , No , No , No , No , No , No , Yes , Box , Left , 100 , Yes
+image_64.jpg,No , Yes , Center , 500 , No , No , No , No , No , No , No , Yes , Block , Center , 100 , Yes
+image_65.jpg,No , Yes , Center , 800 , Yes , No , No , No , No , No , No , Yes , Block , Center , 100 , Yes
+image_66.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Block , Center , 100  , Yes
+image_67.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Box , Right , 0 , Yes
+image_68.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Pipe , Center , 0 , No
+image_69.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Bar , Center , 0  , No
+image_70.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Bar , Center , 0 , No
+image_71.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Pipe , Center , 0  , No
+image_72.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Barrier , Center , 0 , No
+image_73.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Barrier , Center , 0 , No
+image_74.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Pipe , Center , 0 , No
+image_75.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Barrier , Center , 0  , No
+image_76.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Barrier , Center , 0 , No
+image_77.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Barrier , Center , 0 , No
+image_78.jpg,No , No , No , No , No , No , No , No , Yes , No , Left , Yes , Bag , Center , 150 , No
+image_79.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Left , Yes , Bag , Center , 150  , Yes
+image_80.jpg,No , No , No , No , No , No , No , No , Yes , No , Left , Yes , Bag , Center , 150 , Yes
+image_81.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Left , Yes , Bag , Center , 150  , Yes
+image_82.jpg,No , No , No , No , No , No , No , No , Yes , No , Left , Yes , Bag , Center , 100 , Yes
+image_83.jpg,No , No , No , No , No , No , No , No , Yes , No , Left , Yes , Bag , Center , 150 , No
+image_84.jpg,No , No , No , No , No , No , No , No , Yes , No , Left , Yes , Bag , Center , 100 , No
+image_85.jpg,No , No , No , No , No , Yes , Center , 150  , No , No , No , Yes , Bag , Center , 150  , No
+image_86.jpg,No , No , No , No , No , Yes , Center , 150  , No , No , No , Yes , Bag , Center , 150  , Yes
+image_87.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Bag , Center , 50 , No
+image_88.jpg,No , No , No , No , No , Yes , Center , 150  , No , No , No , Yes , Bag , Center , 150  , Yes
+image_89.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Bag , Center , 100 , Yes
+image_90.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Bag , Center , 50 , No
+image_91.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Bag , Center , 50 , No
+image_92.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Bag , Center , 50 , No
+image_93.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Bag , Center , 50 , No
+image_94.jpg,No , Yes , Center , 300 , No , No , No , No , Yes , No , Center , Yes , Bag , Center , 100 , No
+image_95.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Bag , Center , 50 , No
+image_96.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Backpack , Center , 100  , No
+image_97.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Backpack , Center , 100  , No
+image_98.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_99.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_100.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_101.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_102.jpg,No , Yes , Center , 400 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_103.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_104.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_105.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_106.jpg,No , No , No , No , No , No , No , No , Yes , No , Center , Yes , Bag , Center , 50  , No
+image_107.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Backpack , Center , 50  , No
+image_108.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_109.jpg,No , Yes , Center , 300 , Yes , No , No , No , Yes , No , Center , Yes , Backpack , Center , 50 , No
+image_110.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_111.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_112.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Backpack , Center , 50  , Yes
+image_113.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Backpack , Center , 0  , No
+image_114.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Backpack , Center , 0  , No
+image_115.jpg,No , Yes , Center , 200 , No , No , No , No , No , No , No , Yes , Backpack , Center , 50 , No
+image_116.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Bag , Center , 0  , No
+image_117.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Bag , Center , 0  , No
+image_118.jpg,No , No , No , No , No , No , No , No , No , No , No , Yes , Bag , Center , 0  , No
+image_119.jpg,No , No , No , No , No , No , No , No , Yes , No , Center , Yes , Bag , Center , 0  , No
+image_120.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , Paper , Center , 0 , Yes
+image_121.jpg,No , No , No , No , No , No , No , No , Yes , No , Center , Yes , AR code , Center , 50  , Yes
+image_122.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 50  , Yes
+image_123.jpg,No , No , No , No , No , No , No , No , Yes , No , Center , Yes , AR code , Center , 50  , Yes
+image_124.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 10 , Yes
+image_125.jpg,No , No , No , No , No , No , No , No , Yes , No , Center , Yes , Paper , Center , 0  , Yes
+image_126.jpg,No , No , No , No , No , No , No , Yes , No , Center , Yes , AR code , Center , 0  , Yes,
+image_127.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 10  , Yes
+image_128.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 10  , Yes
+image_129.jpg,No , Yes , Center , 300 , No , No , No , No , Yes , Yes , Center , Yes , Paper , Center , 10 , Yes
+image_130.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 0 , Yes
+image_131.jpg,No , No , No , No , No , No , No , Yes , Yes , Center , No , No , No , No , Yes,
+image_132.jpg,No , No , No , No , No , No , No , Yes , Yes , Center , Yes , Paper , Center , 0  , Yes,
+image_133.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 0  , Yes
+image_134.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR codes , Center , 0 , Yes
+image_135.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR codes , Center , 0 , Yes
+image_136.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR codes , Center , 0  , Yes
+image_137.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR codes , Center , 0 , Yes
+image_138.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 0 , Yes
+image_139.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR codes , Center , 50 , Yes
+image_140.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , No , No , No , No , Yes
+image_141.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 0 , Yes
+image_142.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 0 , Yes
+image_143.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , No , No , No , No , Yes
+image_144.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 0 , Yes
+image_145.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 0 , Yes
+image_146.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 0 , Yes
+image_147.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 0 , Yes
+image_148.jpg,No , No , No , No , No , No , No , No , Yes , Yes , Center , No , No , No , No , Yes
+image_149.jpg,No , No , No , No , No , No , No , No , Yes , No , Center , Yes , AR code , Center , 0  , Yes
+image_150.jpg,No , Yes , Center , 300 , No , No , No , No , Yes , Yes , Center , Yes , AR code , Center , 300 , Yes
+image_151.jpg,No , Yes , Center , 300 , No , No , No , No , Yes , No , Center , Yes , Person , Left , 50 , No
+image_152.jpg,No , Yes , Center , 300 , No , Yes , Left , 50 , No , No , No , Yes , Person , Left , 50 , No
+image_153.jpg,No , No , No , No , No , Yes , Center , 50  , No , No , No , Yes , Person , Center , 50  , Yes
+image_154.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Person , Center , 50 , No
+image_155.jpg,No , No , No , No , No , Yes , Center , 50  , No , No , No , Yes , Person , Center , 50  , Yes
+image_156.jpg,No , No , No , No , No , Yes , Center , 50  , Yes , No , Center , Yes , Person , Center , 50  , No
+image_157.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Left , Yes , Person , Center , 150  , Yes
+image_158.jpg,No , No , No , No , No , Yes , Center , 100  , Yes , Yes , Left , Yes , Person , Center , 100  , Yes
+image_159.jpg,No , Yes , Center , 300 , No , No , No , No , Yes , No , Center , Yes , Person , Center , 100 , No
+image_160.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Center , Yes , Person , Center , 150  , Yes
+image_161.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , Yes , Center , Yes , Person , Center , 150  , Yes
+image_162.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , Yes , Center , Yes , Person , Center , 150  , Yes
+image_163.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , Yes , Center , Yes , Person , Center , 150  , Yes
+image_164.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , Yes , Center , Yes , Person , Center , 150  , Yes
+image_165.jpg,No , Yes , Center , 300 , No , No , No , No , Yes , Yes , Center , Yes , Person , Center , 300 , Yes
+image_166.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Left , Yes , Person , Center , 150  , Yes
+image_167.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Left , Yes , Person , Center , 150  , Yes
+image_168.jpg,No , Yes , Center , 300 , No , No , No , No , Yes , No , Center , Yes , Person , Center , 200 , Yes
+image_169.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Center , Yes , Person , Center , 150  , Yes
+image_170.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Left , Yes , Person , Center , 150  , Yes
+image_171.jpg,No , Yes , Center , 300 , No , No , No , No , Yes , No , Center , Yes , Person , Center , 300 , Yes
+image_172.jpg,No , Yes , Center , 300 , No , No , No , No , Yes , No , Center , Yes , Person , Center , 300 , Yes
+image_173.jpg,No , Yes , Center , 300 , No , Yes , Center , 300 , Yes , No , Center , Yes , Person , Center , 300 , Yes
+image_174.jpg,No , No , No , No , No , Yes , Center , 300  , Yes , No , Left , Yes , Person , Center , 300  , Yes
+image_175.jpg,No , No , No , No , No , Yes , Center , 200  , Yes , Yes , Left , Yes , Person , Center , 200  , Yes
+image_176.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Left , Yes , Person , Center , 150  , Yes
+image_177.jpg,No , No , No , No , No , Yes , Center , 200  , Yes , Yes , Left , Yes , Person , Center , 200  , Yes
+image_178.jpg,No , No , No , No , No , Yes , Center , 200  , Yes , Yes , Left , Yes , Person , Center , 200  , Yes
+image_179.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Left , Yes , Person , Center , 150  , Yes
+image_180.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Left , Yes , Person , Center , 150  , Yes
+image_181.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , Yes , Left , Yes , Person , Center , 150  , Yes
+image_182.jpg,No , No , No , No , No , Yes , Center , 200  , Yes , Yes , Left , Yes , Person , Center , 200  , Yes
+image_183.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , Yes , Center , Yes , Person , Center , 150  , Yes
+image_184.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Center , Yes , Person , Center , 150  , Yes
+image_185.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Center , Yes , Person , Center , 150  , Yes
+image_186.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Center , Yes , Person , Center , 150  , Yes
+image_187.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Center , Yes , Person , Center , 150  , Yes
+image_188.jpg,No , No , No , No , No , Yes , Center , 100  , Yes , No , Center , Yes , Person , Center , 100  , Yes
+image_189.jpg,No , No , No , No , No , Yes , Center , 150  , Yes , No , Left , Yes , Person , Center , 150  , Yes
+image_190.jpg,No , Yes , Center , 300 , No , No , No , No , Yes , No , Center , Yes , Person , Center , 100 , No
+image_191.jpg,No , No , No , No , No , Yes , Center , 50  , Yes , No , Left , Yes , Person , Center , 50  , Yes
+image_192.jpg,No , No , No , No , No , Yes , Center , 100  , Yes , No , Left , Yes , Person , Center , 100  , Yes
+image_193.jpg,No , No , No , No , No , Yes , Center , 100  , Yes , No , Left , Yes , Person , Center , 100  , Yes
+image_194.jpg,No , No , No , No , No , Yes , Center , 50  , Yes , Yes , Center , Yes , Person , Center , 50  , No
+image_195.jpg,No , No , No , No , No , Yes , Center , 50  , Yes , No , Center , Yes , Person , Center , 50  , No
+image_196.jpg,No , No , No , No , No , Yes , Center , 50  , No , No , No , Yes , Person , Center , 50  , No
+image_197.jpg,No , No , No , No , No , Yes , Center , 50  , Yes , No , Center , Yes , Person , Center , 50  , No
+image_198.jpg,No , No , No , No , No , Yes , Center , 50  , No , No , No , Yes , Person , Center , 50  , Yes
+image_199.jpg,No , Yes , Center , 300 , No , No , No , No , No , No , No , Yes , Person , Left , 50 , No
+image_200.jpg,No , Yes , Center , 800 , No , No , No , No , No , No , No , No , No , No , Yes,
+image_201.jpg,No , Yes , Center , 1000 , No , No , No , No , No , No , No , Yes , Bag , Right , 500 , Yes
+image_202.jpg,No , Yes , Center , 1000 , No , No , No , No , No , No , No , Yes , Bag , Right , 300 , Yes
+image_203.jpg,No , Yes , Center , 1000 , No , No , No , No , No , No , No , Yes , Bag , Right , 500 , Yes
+image_204.jpg,No , Yes , Center , 800 , No , Yes , Right , 500 , No , No , No , Yes , Bag , Right , 500 , Yes
+image_205.jpg,No , Yes , Center , 1000 , No , No , No , No , No , No , No , Yes , Bag , Right , 500 , Yes
+image_206.jpg,No , Yes , Center , 1000 , No , No , No , No , No , No , No , Yes , No , No , No , Yes
+image_207.jpg,No , Yes , Center , 800 , No , No , No , No , No , No , No , Yes , Bag , Center , 500 , Yes
+image_208.jpg,No , Yes , Center , 1000 , No , Yes , Center , 800 , No , No , No , Yes , Bag , Center , 800 , Yes
+image_209.jpg,No , Yes , Center , 1000 , No , No , No , No , No , No , No , Yes , Bag , Center , 800 , Yes
+image_210.jpg,No , Yes , Center , 1000 , No , Yes , Center , 800 , No , No , No , Yes , Robot , Center , 800 , Yes
+image_211.jpg,No , Yes , Center , 1000 , No , No , No , No , Yes , No , Center , Yes , Bag , Right , 500 , Yes
+image_212.jpg,No , Yes , Center , 500 , Yes , No , No , No , No , No , No , No , No , No , Yes,
+image_213.jpg,No , Yes , Center , 500 , Yes , No , No , No , No , No , No , No , No , No , Yes,
+image_214.jpg,No , Yes , Center , 500 , Yes , No , No , No , No , No , No , No , No , No , Yes,
+image_215.jpg,No , Yes , Center , 500 , Yes , No , No , No , No , No , No , No , No , No , No , Yes
+image_216.jpg,No , Yes , Center , 500 , Yes , No , No , No , No , No , No , Yes , Chair , Center , 500 , Yes
+image_217.jpg,No , Yes , Center , 500 , Yes , No , No , No , No , No , No , Yes , Door , Center , 500 , Yes
+image_218.jpg,No , Yes , Center , 400 , Yes , No , No , No , No , No , No , Yes , No , No , Yes,
+image_219.jpg,No , Yes , Center , 500 , Yes , No , No , No , No , No , No , No , No , No , Yes,
+image_220.jpg,No , Yes , Center , 300 , Yes , No , No , No , No , No , No , Yes , Door , Center , 300 , Yes
+image_221.jpg,No , Yes , Center , 500 , Yes , No , No , No , No , No , No , No , No , No , Yes,
+image_222.jpg,No , Yes , Center , 1000 , Yes , Yes , Center , 200 , No , No , No , Yes , Robot , Center , 200 , Yes
+image_223.jpg,No , Yes , Center , 800 , No , Yes , Center , 200 , No , No , No , Yes , Robot , Center , 200 , Yes
+image_224.jpg,No , Yes , Center , 1000 , No , Yes , Center , 100 , No , No , No , Yes , Robot , Center , 100 , Yes
+image_225.jpg,No , Yes , Center , 500 , No , Yes , Center , 100 , No , No , No , Yes , Robot , Center , 100 , Yes
+image_226.jpg,No , Yes , Center , 500 , No , Yes , Center , 100 , No , No , No , Yes , Robot , Center , 100 , Yes
+image_227.jpg,No , Yes , Center , 1000 , No , Yes , Center , 50 , No , No , No , Yes , Robot , Center , 50 , Yes
+image_228.jpg,No , Yes , Center , 1000 , No , Yes , Center , 50 , No , No , No , Yes , Robot , Center , 50 , Yes
+image_229.jpg,No , Yes , Center , 1000 , No , Yes , Center , 50 , No , No , No , Yes , Robot , Center , 50 , Yes
+image_230.jpg,No , Yes , Center , 1000 , No , Yes , Center , 50 , No , No , No , Yes , Robot , Center , 50 , Yes
+image_231.jpg,No , Yes , Center , 800 , No , Yes , Center , 50 , No , No , No , Yes , Robot , Center , 50 , Yes
+image_232.jpg,No , Yes , Center , 1000 , Yes , Yes , Center , 50 , No , No , No , Yes , Robot , Center , 50 , Yes
+image_233.jpg,No , Yes , Center , 800 , Yes , Yes , Center , 50 , No , No , No , Yes , Robot , Center , 50 , Yes
+image_234.jpg,No , Yes , Center , 1000 , No , Yes , Center , 50 , No , No , No , Yes , Robot , Center , 50 , Yes
+image_235.jpg,No , Yes , Center , 800 , Yes , Yes , Right , 50 , No , No , No , No , No , No , Yes,
+image_236.jpg,No , Yes , Center , 1000 , No , Yes , Right , 50 , No , No , No , Yes , Robot , Right , 50 , Yes
+image_237.jpg,No , Yes , Center , 1000 , No , No , No , No , No , No , No , Yes , No , No , Yes,
+image_238.jpg,No , Yes , Center , 800 , No , No , No , No , No , No , No , Yes , No , No , No , Yes
+image_239.jpg,No , Yes , Center , 1000 , No , No , No , No , No , No , No , Yes , No , No , No , Yes
+image_240.jpg,No , Yes , Center , 1000 , No , No , No , No , No , No , No , No , No , No , Yes,

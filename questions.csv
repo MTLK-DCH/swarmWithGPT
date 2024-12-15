@@ -1,0 +1,16 @@
+Is there a fork in the road ahead?,Yes or No
+Is there a door in front of the robot?,Yes or No
+If there is a door where is it?,No or left or center or right
+If there is a door how far is it?,No or only reply a number unit is cm
+Is the door in front of the robot open?,Yes or No
+Is there a robot in front of the robot?,Yes or No
+If there is a robot where is it?,No or left or center or right
+If there is a robot how far is it?,No or only reply a number unit is cm
+Is there an AR code in front of the robot?,Yes or No
+Are there multiple AR codes in front of the robot?,Yes or No
+In which direction is the AR code in front of the robot?,No or left or center or right
+Is there an obstacle in front of the robot?,Yes or No
+What is the obstacle in front of the robot?,No or the name of the obstacle
+In which direction is the obstacle in front of the robot?,No or left or center or right
+If there is a obstacle how far is it?,No or only reply a number unit is cm
+Is there enough space in front of the robot for it to pass through? The robot is a cylinder with a diameter of 25 centimeters and a height of 20 centimeters.,Yes or No

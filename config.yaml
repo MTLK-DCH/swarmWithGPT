@@ -1,0 +1,28 @@
+# GPT API secrit keys
+api_key : 'sk-proj-tokqSnOgQDfrDlTw7Yb7T3BlbkFJ1ucansfbAGKS2hKCKUWC'
+k2 : "sk-proj-93Pw0nxl6PIdDctiiBdmT3BlbkFJ0p8za5Gux5rna2GNmugT"
+
+# dataset path
+dataset : "dataset/images"
+
+# tags path
+tags : "dataset/tags/tags.csv"
+
+# GPT system message file
+sys_message : "sys_message.txt"
+
+# questions file
+questions_file : "questions.csv"
+
+# GPT parameters
+gpt_p :
+  model : "gpt-4o"    # gpt model name
+  temperature : 0     # temperature, to control the diversity of the reply
+  seed : 123          # seed same as the seed of python random package
+
+# log file (all the data replied, never auto delete)
+log_file : "chat_log.csv"
+
+# result file (only results, auto delete old file when run code)
+result_file : "result.csv"
+
